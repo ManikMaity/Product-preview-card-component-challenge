@@ -12,7 +12,7 @@ body{
     background-color: hsl(30, 38%, 92%);
     display: grid;
     place-content: center;
-    min-height: 130vh;
+    min-height: 105vh;
 }
 .main-container{
     display: flex;
